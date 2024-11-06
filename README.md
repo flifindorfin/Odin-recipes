@@ -1,1 +1,2 @@
-# Odin-recipes
+This is my first website project from the TOP program which I will be creating a local webstie where it links to some of my favorite recipes!
+As far as my first project goes I feel as though it went pretty smoothly. I did not run into any large issues. In the future I would like to get more consistent with my commits and being more concise and descriptive with my commit messages.
